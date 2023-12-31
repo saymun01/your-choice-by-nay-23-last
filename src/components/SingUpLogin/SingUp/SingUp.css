@@ -1,0 +1,20 @@
+.singUp{
+    width: 339px;
+    font-size: 36px;
+    color: black;
+    font-weight: 700;
+}
+
+.containers{
+    padding-left: 339px;
+    padding-right: 460px;
+
+}
+
+.star{
+    margin: 0 0px 10px 0px;
+}
+
+.users{
+    margin: -33px 0px 0px 189px;
+}
